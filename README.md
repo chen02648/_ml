@@ -53,4 +53,4 @@ z2　=　np.dot(a1,　W2)　+　b2
 DBSCAN。詳情請見對應文件夾下的說明檔案。
 
 ## hw14
-参考了同学的脚本。最终决定使用加权控制策略 + 非线性响应，能够动态判断当前状态是：稳定区域还是偏移区域，综合考虑、杆角（pole angle）、杆角速度（angular velocity）、车位置（cart position）、车速度（cart velocity）。具体请检视对应文件夹下的md档案。
+参考了同学的脚本中的做法，最终决定使用加权控制策略 + 非线性响应，能够动态判断当前状态是：稳定区域还是偏移区域，综合考虑、杆角（pole angle）、杆角速度（angular velocity）、车位置（cart position）、车速度（cart velocity）。具体请检视对应文件夹下的md档案。
